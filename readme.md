@@ -4,6 +4,23 @@ Coding Institute DEI Project
 paulabes
 25/11/2024
 
+## Table of contents
+
+- Requirements
+- Recommended modules
+- Installation
+- Configuration
+- Troubleshooting
+- FAQ
+- Maintainers
+
+**Introduction**
+
+Navigating the evolving landscape of the modern workplace can present unique challenges for individuals who find themselves at odds with prevailing social norms. This website is dedicated to providing resources and support specifically tailored to straight white men over 50 who may feel alienated or frustrated due to their perspectives on topics such as diversity quotas, sexuality, masculinity and mental health.
+
+We understand that generational and cultural differences can contribute to a sense of disconnect in today's workplace. Our mission is to empower individuals to confidently navigate these complexities, foster constructive dialogue, and bridge generational divides while maintaining their personal values.
+
+
 **Primary goals**
 
 1. **Celebrate shared experiences**  
@@ -14,7 +31,7 @@ paulabes
     To foster a sense of belonging and camaraderie among straight white men, providing a space where they can speak freely, feel supported, encouraged, and understood. This could involve the online forum, in-person meetups, or shared interest groups.
 4. **Empowerment through open dialogue**  
     To create a space for open and honest conversations about the challenges and pressures faced by straight white men in today's society and especially thye modern workplace. This could include discussions about navigating changing social norms, DEI, workplace dynamics, and family expectations.
-5. **Personal growth and resilience**  
+5. **Personal growth and understanding**  
     To provide resources and support for personal growth and development, helping individuals navigate life's new challenges, build resilience, and achieve their goals without putting their foot in it. This could involve articles, expert advice, or workshops on topics like stress management, modern communication norms, and learning to accept a narrative that you don't agree with.
 
 **Notes**
