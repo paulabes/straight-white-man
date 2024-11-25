@@ -6,7 +6,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
 
 /* font styles */
-h1 {
+h1, .navbar-brand {
     font-family: 'Bangers', cursive;
     font-size: 3em;
     color: #f0f0f0;
