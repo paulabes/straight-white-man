@@ -1,24 +1,25 @@
 ## Straight White Man**
 
-Coding Institute DEI Project
-paulabes
-25/11/2024
+Coding Institute DEI Project <br>
+paulabes <br>
+25/11/2024 <br>
 
 ## Table of contents
 
+- [Introduction](#introduction)
 - Requirements
 - Recommended modules
 - Installation
 - Configuration
-- Troubleshooting
-- FAQ
 - Maintainers
 
 ## Introduction
 
-Navigating the evolving landscape of the modern workplace can present unique challenges for individuals who find themselves at odds with prevailing social norms. This website is dedicated to providing resources and support specifically tailored to straight white men over 50 who may feel alienated or frustrated due to their perspectives on topics such as diversity quotas, sexuality, masculinity and mental health.
+Navigating the evolving landscape of the modern workplace can present unique challenges for individuals who find themselves at odds with prevailing social norms. This website is dedicated to providing resources and support specifically tailored to straight white men who may feel alienated or frustrated by different perspectives on topics such as diversity quotas, sexuality, masculinity and mental health.
 
-We understand that generational and cultural differences can contribute to a sense of disconnect in today's workplace. Our mission is to empower individuals to confidently navigate these complexities, foster constructive dialogue, and bridge generational divides while maintaining their personal values.
+We understand that generational and cultural differences can contribute to this sense of disconnect in today's workplace. Our mission is to empower individuals to confidently navigate these complexities, foster constructive dialogue, and bridge generational divides while maintaining their personal values.
+
+The website will serve as a portal for straigt white men to help each other to overcome these modern stresses and opnely discuss shared values.
 
 
 ## Primary goals
