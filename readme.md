@@ -1,5 +1,9 @@
 **Straight White Man**
 
+Coding Institute DEI Project
+paulabes
+25/11/2024
+
 **Primary goals**
 
 1. **Celebrate shared experiences**  

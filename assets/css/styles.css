@@ -1,0 +1,16 @@
+/* Coding Institute DEI Project */
+/* paulabes */
+/* 25/11/2024 */
+
+/* Bangers - google font */
+@import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
+
+/* font styles */
+h1 {
+    font-family: 'Bangers', cursive;
+    font-size: 3em;
+    color: #f0f0f0;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
