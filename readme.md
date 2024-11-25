@@ -49,16 +49,15 @@ The goal is to foster understanding and address feelings of marginalisation, her
 
 A very simple single column 'mobile first' design using standard Bootstrap elements will be created with media queries to fix responsive design issues. Micro-animations and layout effects could be added afer if time is remaining.
 
-```c
+
 **> 768px**
 
 ![image](assets/images/wireframe-mobile.jpg)
-```
-```c
+
 **< 768px**
 
 ![image](assets/images/wireframe-desktop.jpg)
-```
+
 
 ## Technology
 
