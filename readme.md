@@ -4,14 +4,15 @@ Coding Institute DEI Project <br>
 paulabes <br>
 25/11/2024 <br>
 
+
 ## Table of contents
 
 - [Introduction](#introduction)
-- Requirements
-- Recommended modules
-- Installation
-- Configuration
-- Maintainers
+- [Primary goals](#primary-goals)
+- [Wireframes](#primary-goals)
+- [Technology](#technology) 
+- [Optional page titles](#optional-page-titles) 
+
 
 ## Introduction
 
@@ -43,6 +44,7 @@ It's important to be aware that the concept for this website, while potentially 
 
 The goal is to foster understanding and address feelings of marginalisation, here's a possible with a focus on ensuring the language promotes inclusivity and avoids any perception of superiority.
 
+
 ## Wireframes
 
 A very simple single column 'mobile first' design using standard Bootstrap elements will be created with media queries to fix responsive design issues. Micro-animations and layout effects could be added afer if time is remaining.
@@ -54,3 +56,33 @@ A very simple single column 'mobile first' design using standard Bootstrap eleme
 **< 768px**
 
 ![image](assets/images/wireframe-desktop.jpg)
+
+
+## Technology
+
+* Visual Studio Code
+* GitHub
+* GitPod
+* HTML5
+* CSS3
+* Bootstrap 5
+* Copilot
+* Photoshop
+
+
+## Optional page titles**
+
+- Chat forum
+- Success stories
+- Expert advice
+- Ask the community
+- Recommended reading
+- Upcoming events
+- Take action
+
+
+
+
+
+
+
