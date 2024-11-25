@@ -70,6 +70,61 @@ A very simple single column 'mobile first' design using standard Bootstrap eleme
 * Photoshop
 
 
+## Important considerations
+
+**Language** 
+**Avoid generalisations, stereotypes, or language that blames any particular group.
+
+**Focus**  
+**Frame the website's purpose around personal growth, understanding, and building bridges across different perspectives.
+
+**Moderation**  
+**Actively moderate the forum to ensure discussions remain respectful and constructive.
+
+By taking these steps, I can create a website that genuinely supports straight white men while fostering a more understanding environment for everyone.
+
+
+## Straplines
+
+1. Finding your voice in a changing world.
+2. A space for understanding, support, and connection.
+3. Navigating challenges. Building strength. Fostering respect.
+4. Honest conversations. Real solutions. Positive change.
+5. Your experiences matter. Be heard, not shutdown.
+6. It’s okay to be a Brexiteer, pro-Trump and chivalrous toward women.
+
+
+## Target audience
+
+**Straight White Men**  
+This is the primary group the website aims to serve. However, within this group, there could be a wide range of ages, backgrounds, and perspectives.
+
+**Age**  
+While it could potentially appeal to men of all ages, it's likely that the largest demographic would be men in their 30s to 50s. This is a period when many men are navigating careers, families, and societal expectations, and may be feeling the pressures of a changing world most acutely.
+
+**Location**  
+Primarily English-speaking countries, particularly the United States, Canada, the UK, and Australia, where discussions about identity and social change are prevalent.
+
+**Socioeconomic status**  
+It could appeal to men across a range of socioeconomic backgrounds, but it's possible that it would resonate most with middle-class men who may feel their status and opportunities are being challenged.
+
+**Education level**  
+Likely men with at least a high school education, probably with a higher percentage having some college or a university degree.
+
+**Politics**  
+More than likely, men with conservative values are most challenged.
+
+**Interests**  
+Potentially a wide range, but common interests might include:
+
+- Current affairs and politics
+- Social issues
+- Men's health
+- Fatherhood and family
+- Career development
+- Personal growth and self-improvement
+
+
 ## Optional page
 
 - Chat forum
@@ -79,10 +134,3 @@ A very simple single column 'mobile first' design using standard Bootstrap eleme
 - Recommended reading
 - Upcoming events
 - Take action
-
-
-
-
-
-
-
