@@ -1,4 +1,4 @@
-**Straight White Man**
+## Straight White Man**
 
 Coding Institute DEI Project
 paulabes
@@ -14,14 +14,14 @@ paulabes
 - FAQ
 - Maintainers
 
-**Introduction**
+## Introduction
 
 Navigating the evolving landscape of the modern workplace can present unique challenges for individuals who find themselves at odds with prevailing social norms. This website is dedicated to providing resources and support specifically tailored to straight white men over 50 who may feel alienated or frustrated due to their perspectives on topics such as diversity quotas, sexuality, masculinity and mental health.
 
 We understand that generational and cultural differences can contribute to a sense of disconnect in today's workplace. Our mission is to empower individuals to confidently navigate these complexities, foster constructive dialogue, and bridge generational divides while maintaining their personal values.
 
 
-**Primary goals**
+## Primary goals
 
 1. **Celebrate shared experiences**  
     To provide a platform for straight white generation X men who are struggling to relate to modern DEI strategy in teh workplace. Teh website is a place to connect with each other, share stories, and celebrate aspects of their identity and experiences that are unique to them. This could include discussions about politics, interests, challenges, and achievements.
@@ -42,7 +42,7 @@ It's important to be aware that the concept for this website, while potentially 
 
 The goal is to foster understanding and address feelings of marginalisation, here's a possible with a focus on ensuring the language promotes inclusivity and avoids any perception of superiority.
 
-**Wireframe**
+## Wireframes
 
 A very simple single column 'mobile first' design using standard Bootstrap elements will be created with media queries to fix responsive design issues. Micro-animations and layout effects could be added afer if time is remaining.
 
