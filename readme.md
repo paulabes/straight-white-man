@@ -16,7 +16,7 @@ paulabes <br>
 
 ## Introduction
 
-Navigating the evolving landscape of the modern workplace can present unique challenges for individuals who find themselves at odds with prevailing social norms. This website is dedicated to providing resources and support specifically tailored to straight white men who may feel alienated or frustrated by different perspectives on topics such as diversity quotas, sexuality, masculinity and mental health.
+Navigating the evolving landscape of the modern workplace can present unique challenges for individuals who find themselves at odds with prevailing social norms. This website is dedicated to providing resources and support specifically tailored to straight white men who may feel alienated or frustrated by new perspectives on old topics such as diversity quotas, sexuality, masculinity and mental health.
 
 We understand that generational and cultural differences can contribute to this sense of disconnect in today's workplace. Our mission is to empower individuals to confidently navigate these complexities, foster constructive dialogue, and bridge generational divides while maintaining their personal values.
 
@@ -49,14 +49,16 @@ The goal is to foster understanding and address feelings of marginalisation, her
 
 A very simple single column 'mobile first' design using standard Bootstrap elements will be created with media queries to fix responsive design issues. Micro-animations and layout effects could be added afer if time is remaining.
 
+```c
 **> 768px**
 
 ![image](assets/images/wireframe-mobile.jpg)
-
+```
+```c
 **< 768px**
 
 ![image](assets/images/wireframe-desktop.jpg)
-
+```
 
 ## Technology
 
@@ -73,13 +75,13 @@ A very simple single column 'mobile first' design using standard Bootstrap eleme
 ## Important considerations
 
 **Language** 
-**Avoid generalisations, stereotypes, or language that blames any particular group.
+Avoid generalisations, stereotypes, or language that blames any particular group.
 
 **Focus**  
-**Frame the website's purpose around personal growth, understanding, and building bridges across different perspectives.
+Frame the website's purpose around personal growth, understanding, and building bridges across different perspectives.
 
-**Moderation**  
-**Actively moderate the forum to ensure discussions remain respectful and constructive.
+**Moderation**
+Actively moderate the forum to ensure discussions remain respectful and constructive.
 
 By taking these steps, I can create a website that genuinely supports straight white men while fostering a more understanding environment for everyone.
 
@@ -124,8 +126,7 @@ Potentially a wide range, but common interests might include:
 - Career development
 - Personal growth and self-improvement
 
-
-## Optional page
+## Optional pages
 
 - Chat forum
 - Success stories
