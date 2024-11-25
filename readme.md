@@ -1,4 +1,4 @@
-## Straight White Man**
+# Straight White Man
 
 Coding Institute DEI Project <br>
 paulabes <br>
