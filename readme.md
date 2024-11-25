@@ -11,7 +11,7 @@ paulabes <br>
 - [Primary goals](#primary-goals)
 - [Wireframes](#primary-goals)
 - [Technology](#technology) 
-- [Optional page titles](#optional-page-titles) 
+- [Optional pages](#optional-pages) 
 
 
 ## Introduction
@@ -70,7 +70,7 @@ A very simple single column 'mobile first' design using standard Bootstrap eleme
 * Photoshop
 
 
-## Optional page titles**
+## Optional page
 
 - Chat forum
 - Success stories
