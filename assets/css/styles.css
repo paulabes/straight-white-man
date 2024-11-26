@@ -83,7 +83,7 @@ section {
 }
 
 #resources, #advice, #help {
-    padding: 20px
+    padding: 30px
 }
 
 
@@ -92,11 +92,11 @@ section {
 @media (min-width: 768px) {
 
     #resources {
-        border-right: 2px solid #2b3035;
+        border-right: 2px solid #2e3236;
     }
     
     #help {
-        border-left: 2px solid #2b3035;
+        border-left: 2px solid e3236;
     }
     
 }
