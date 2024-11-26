@@ -5,6 +5,10 @@
 /* Bangers - google font */
 @import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
 
+body {
+    padding: 1%;
+}
+
 /* font styles */
 
 .navbar-brand {
@@ -17,14 +21,12 @@
 
 p {
     font-size: 1.2rem;
-    font-weight: 300;
 }
 
 h1,
 h2 {
     font-family: 'Bangers', cursive;
     color: #f0f0f0;
-    font-weight: 300;
 }
 
 ul>li {
