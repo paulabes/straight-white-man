@@ -107,19 +107,19 @@ This is the primary group the website aims to serve. However, within this group,
 - **Age**
 <br>While it could potentially appeal to men of all ages, it's likely that the largest demographic would be men in their 30s to 50s. This is a period when many men are navigating careers, families, and societal expectations, and may be feeling the pressures of a changing world most acutely.
 
-- **Location**  
+- **Location**
 <br>Primarily English-speaking countries, particularly the United States, Canada, the UK, and Australia, where discussions about identity and social change are prevalent.
 
-- **Socioeconomic status**  
+- **Socioeconomic status**
 <br>It could appeal to men across a range of socioeconomic backgrounds, but it's possible that it would resonate most with middle-class men who may feel their status and opportunities are being challenged.
 
-- **Education level**  
+- **Education level**
 <br>Likely men with at least a high school education, probably with a higher percentage having some college or a university degree.
 
-- **Politics**  
+- **Politics**
 <br>More than likely, men with conservative values are most challenged.
 
-- **Interests**  
+- **Interests**
 <br>Potentially a wide range, but common interests might include:
 
 - Current affairs and politics
