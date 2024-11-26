@@ -120,14 +120,7 @@ This is the primary group the website aims to serve. However, within this group,
 <br>More than likely, men with conservative values are most challenged.
 
 - **Interests**
-<br>Potentially a wide range, but common interests might include:
-
-** Current affairs and politics
-** Social issues
-** Men's health
-** Fatherhood and family
-** Career development
-** Personal growth and self-improvement
+<br>Potentially a wide range, but common interests might include; Current affairs and politics, Social issues, Men's health, Fatherhood and family, Career development, Personal growth and self-improvement
 
 ## Optional pages
 
