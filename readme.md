@@ -10,7 +10,10 @@ paulabes <br>
 - [Introduction](#introduction)
 - [Primary goals](#primary-goals)
 - [Website design](#website-design)
-- [Technology](#technology) 
+- [Technology](#technology)
+- [Important considerations](#iportant-considerations)
+- [Technology](#technology)
+- [Technology](#technology)
 - [Optional pages](#optional-pages) 
 
 
