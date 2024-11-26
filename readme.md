@@ -11,9 +11,9 @@ paulabes <br>
 - [Primary goals](#primary-goals)
 - [Website design](#website-design)
 - [Technology](#technology)
-- [Important considerations](#iportant-considerations)
-- [Technology](#technology)
-- [Technology](#technology)
+- [Important considerations](#important-considerations)
+- [Strap lines](#strap-lines)
+- [Target audience](#target-audience)
 - [Optional pages](#optional-pages) 
 
 
