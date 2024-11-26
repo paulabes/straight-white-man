@@ -49,16 +49,15 @@ ul>li {
 
 /* navbar */
 
-.navbar-toggler,
-.navbar-toggler:active,
-navbar-toggler:hover {
+.navbar-toggler, 
+.navbar-toggler.active, {
     border: none;
 }
 
 /* buttons */
 
 .btn {
-    margin: 1rem 0;
+    margin-bottom: 20px 0;
 }
 
 /* media queries */
