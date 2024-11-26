@@ -82,17 +82,21 @@ section {
     background-color: #2b3035;
 }
 
+#resources, #advice, #help {
+    padding: 20px
+}
+
 
 /* media queries */
 
 @media (min-width: 768px) {
 
     #resources {
-        border-right: 1px solid #ffffff; /* #2b3035 */
+        border-right: 2px solid #2b3035;
     }
     
     #help {
-        border-left: 1px solid #ffffff;
+        border-left: 2px solid #2b3035;
     }
     
 }
