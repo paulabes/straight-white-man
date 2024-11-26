@@ -6,7 +6,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
 
 body {
-    padding: 1%;
+    padding: 2%;
 }
 
 /* font styles */
@@ -32,3 +32,13 @@ h2 {
 ul>li {
     font-size: 1.2rem;
 }
+
+/* media queries */
+
+@media (min-width: 768px) {
+
+    }
+    
+    @media (max-width: 992px) {
+
+    }
