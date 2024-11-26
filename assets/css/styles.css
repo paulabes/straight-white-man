@@ -11,7 +11,7 @@ body {
 
 /* font styles */
 
-.navbar-brand {
+h1, h2, .navbar-brand {
     font-family: 'Bangers', cursive;
     font-size: 2.2rem;
     color: #f0f0f0;
@@ -23,10 +23,12 @@ p {
     font-size: 1.2rem;
 }
 
-h1,
+h1 {
+    font-size: 3rem;
+}
+
 h2 {
-    font-family: 'Bangers', cursive;
-    color: #f0f0f0;
+    font-size: 2rem;
 }
 
 ul>li {
