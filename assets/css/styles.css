@@ -7,7 +7,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
 
 body {
-    padding: 2% 0;
+    padding: 5% 0;
 }
 
 /* font styles */
@@ -94,7 +94,7 @@ section {
 #resources,
 #advice,
 #help {
-    padding-bottom: 30px
+    padding-bottom: 10px;
 }
 
 /* media queries */
