@@ -78,15 +78,23 @@ section {
     padding: 1% 0;
 }
 
-#about, #tools, #action{
+#about,
+#tools,
+#action {
     background-color: #2b3035;
 }
 
-#footer{
+#footer {
     text-align: center;
     text-transform: uppercase;
     font-size: 1rem;
     letter-spacing: 0.1rem;
+}
+
+#resources,
+#advice,
+#help {
+    padding-bottom: 30px
 }
 
 /* media queries */
@@ -96,18 +104,20 @@ section {
     #resources {
         border-right: 2px solid #2e3236;
     }
-    
+
     #help {
         border-left: 2px solid #2e3236;
     }
 
-    #resources, #advice, #help {
-        padding: 30px
-    } 
+    #resources,
+    #advice,
+    #help {
+        padding: 30px;
+    }
 
     .center {
         text-align: center;
     }
 }
 
-@media (max-width: 992px) {}
+@media (max-width: 768px) {}
