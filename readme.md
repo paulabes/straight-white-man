@@ -57,11 +57,11 @@ A very simple single column 'mobile first' design using standard Bootstrap eleme
 
 ### Wireframes
 
-**Large tablets & desktops > 768px**
+**Large tablets & desktops < 768px**
 
 ![image](assets/images/wireframe-mobile.jpg)
 
-**Smaller screens and mobile devices < 768px**
+**Smaller screens and mobile devices > 767px**
 
 ![image](assets/images/wireframe-desktop.jpg)
 
