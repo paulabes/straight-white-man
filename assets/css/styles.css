@@ -35,6 +35,12 @@ ul>li {
     font-size: 1.2rem;
 }
 
+/* navbar */
+
+.navbar-toggler {
+    border: none;
+}
+
 /* media queries */
 
 @media (min-width: 768px) {
