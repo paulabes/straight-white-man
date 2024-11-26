@@ -9,7 +9,7 @@ paulabes <br>
 
 - [Introduction](#introduction)
 - [Primary goals](#primary-goals)
-- [Wireframes](#primary-goals)
+- [Website design](#website-design)
 - [Technology](#technology) 
 - [Optional pages](#optional-pages) 
 
@@ -48,19 +48,22 @@ It's important to be aware that the concept for this website, while potentially 
 The goal is to foster understanding and address feelings of marginalisation, here's a possible with a focus on ensuring the language promotes inclusivity and avoids any perception of superiority.
 
 
-## Wireframes
+## Website design
 
 A very simple single column 'mobile first' design using standard Bootstrap elements will be created with media queries to fix responsive design issues. Micro-animations and layout effects could be added afer if time is remaining.
 
+### Wireframes
 
-### > 768px
+**Large tablets & desktops > 768px**
 
 ![image](assets/images/wireframe-mobile.jpg)
 
-### < 768px
+**Smaller screens and mobile devices < 768px**
 
 ![image](assets/images/wireframe-desktop.jpg)
 
+### Fonts
+Google font ... 'Bangers'
 
 ## Technology
 
