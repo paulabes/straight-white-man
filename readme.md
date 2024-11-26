@@ -22,6 +22,9 @@ We understand that generational and cultural differences can contribute to this 
 
 The website will serve as a portal for straigt white men to help each other to overcome these modern stresses and opnely discuss shared values.
 
+## Why a forum?
+
+In an age of social media censorship and echo chambers, a forum might seem like a throwback. But that's exactly why we chose it. 
 
 ## Primary goals
 
