@@ -24,7 +24,7 @@ h2,
 
 p {
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 1.2rem;
+    font-size: 1.1rem;
 }
 
 h1 {
@@ -32,19 +32,19 @@ h1 {
 }
 
 h2 {
-    font-size: 2rem;
+    font-size: 2.2rem;
     margin-bottom: 1rem;
 }
 
 h3 {
     font-family: Arial, Helvetica, sans-serif !important;
-    font: 1.2rem bold;
+    font: 1.6rem bold;
     margin-bottom: 1rem;
 }
 
 ul>li {
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 1.2rem;
+    font-size: 1.1rem;
 }
 
 /* navbar */
