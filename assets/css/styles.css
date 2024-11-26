@@ -97,6 +97,10 @@ section {
     padding-bottom: 10px;
 }
 
+.accordion-item {
+    border-radius: 0px;
+}
+
 /* media queries */
 
 @media (min-width: 768px) {
