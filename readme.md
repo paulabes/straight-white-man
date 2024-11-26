@@ -22,7 +22,7 @@ We understand that generational and cultural differences can contribute to this 
 
 The website will serve as a portal for straigt white men to help each other to overcome these modern stresses and opnely discuss shared values.
 
-## Why a forum?
+### Why a forum?
 
 In an age of social media censorship and echo chambers, a forum might seem like a throwback. But that's exactly why we chose it. 
 
@@ -39,7 +39,7 @@ In an age of social media censorship and echo chambers, a forum might seem like 
 5. **Personal growth and understanding**  
     To provide resources and support for personal growth and development, helping individuals navigate life's new challenges, build resilience, and achieve their goals without putting their foot in it. This could involve articles, expert advice, or workshops on topics like stress management, modern communication norms, and learning to accept a narrative that you don't agree with.
 
-**Notes**
+### Notes
 
 Creating a positive and supportive community doesn't require exclusion or negativity towards others. By focusing on shared experiences, personal growth, and positive contributions to society, we can celebrate identity in a healthy way.
 
@@ -53,11 +53,11 @@ The goal is to foster understanding and address feelings of marginalisation, her
 A very simple single column 'mobile first' design using standard Bootstrap elements will be created with media queries to fix responsive design issues. Micro-animations and layout effects could be added afer if time is remaining.
 
 
-**> 768px**
+### > 768px
 
 ![image](assets/images/wireframe-mobile.jpg)
 
-**< 768px**
+### < 768px
 
 ![image](assets/images/wireframe-desktop.jpg)
 
@@ -76,15 +76,15 @@ A very simple single column 'mobile first' design using standard Bootstrap eleme
 
 ## Important considerations
 
-**Language** 
+- **Language** 
 
 Avoid generalisations, stereotypes, or language that blames any particular group.
 
-**Focus**
+- **Focus**
 
 Frame the website's purpose around personal growth, understanding, and building bridges across different perspectives.
 
-**Moderation**
+- **Moderation**
 
 Actively moderate the forum to ensure discussions remain respectful and constructive.
 
@@ -107,27 +107,27 @@ By taking these steps, I can create a website that genuinely supports straight w
 
 This is the primary group the website aims to serve. However, within this group, there could be a wide range of ages, backgrounds, and perspectives.
 
-**Age**  
+- **Age**  
 
 While it could potentially appeal to men of all ages, it's likely that the largest demographic would be men in their 30s to 50s. This is a period when many men are navigating careers, families, and societal expectations, and may be feeling the pressures of a changing world most acutely.
 
-**Location**  
+- **Location**  
 
 Primarily English-speaking countries, particularly the United States, Canada, the UK, and Australia, where discussions about identity and social change are prevalent.
 
-**Socioeconomic status**  
+- **Socioeconomic status**  
 
 It could appeal to men across a range of socioeconomic backgrounds, but it's possible that it would resonate most with middle-class men who may feel their status and opportunities are being challenged.
 
-**Education level**  
+- **Education level**  
 
 Likely men with at least a high school education, probably with a higher percentage having some college or a university degree.
 
-**Politics**  
+- **Politics**  
 
 More than likely, men with conservative values are most challenged.
 
-**Interests**  
+- **Interests**  
 
 Potentially a wide range, but common interests might include:
 
