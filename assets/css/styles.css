@@ -94,7 +94,7 @@ section {
 #resources,
 #advice,
 #help {
-    padding-bottom: 10px;
+    padding: 10px 0;
 }
 
 .accordion-item {
