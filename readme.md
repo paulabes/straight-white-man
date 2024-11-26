@@ -122,12 +122,12 @@ This is the primary group the website aims to serve. However, within this group,
 - **Interests**
 <br>Potentially a wide range, but common interests might include:
 
-- Current affairs and politics
-- Social issues
-- Men's health
-- Fatherhood and family
-- Career development
-- Personal growth and self-improvement
+-- Current affairs and politics
+-- Social issues
+-- Men's health
+-- Fatherhood and family
+-- Career development
+-- Personal growth and self-improvement
 
 ## Optional pages
 
