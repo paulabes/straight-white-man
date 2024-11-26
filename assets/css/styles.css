@@ -48,8 +48,8 @@ ul>li {
 }
 
 ol, li {
-    margin-left: 0 !important;
-    padding-left: 0 !important;
+    margin-left: 0rem;
+    padding-left: 0rem;
   }
 
 /* navbar */
