@@ -7,7 +7,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
 
 body {
-    padding: 2%;
+    padding: 2% 0;
 }
 
 /* font styles */
@@ -82,9 +82,7 @@ section {
     background-color: #2b3035;
 }
 
-#resources, #advice, #help {
-    padding: 30px
-}
+
 
 
 /* media queries */
@@ -98,7 +96,10 @@ section {
     #help {
         border-left: 2px solid #2e3236;
     }
-    
+
+    #resources, #advice, #help {
+        padding: 30px
+    } 
 }
 
 @media (max-width: 992px) {}
