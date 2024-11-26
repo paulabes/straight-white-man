@@ -23,7 +23,7 @@ Navigating the evolving landscape of the modern workplace can present unique cha
 
 We understand that generational and cultural differences can contribute to this sense of disconnect in today's workplace. Our mission is to empower individuals to confidently navigate these complexities, foster constructive dialogue, and bridge generational divides while maintaining their personal values.
 
-The website will serve as a portal for straigt white men to help each other to overcome these modern stresses and opnely discuss shared values.
+The website will serve as a portal for straigt white men to help each other to overcome these modern stresses and openly discuss shared values. At the same time it is an opertunity for straight white men to understand the values that others hold if they are not well travelled themselves.
 
 ### Why a forum?
 
