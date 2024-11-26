@@ -5,6 +5,18 @@
 /* Bangers - google font */
 @import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
 
+/* reset */
+* {
+    margin: 10px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f0f0f0;
+}
+
 /* font styles */
 h1, .navbar-brand {
     font-family: 'Bangers', cursive;
