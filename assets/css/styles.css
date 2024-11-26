@@ -24,11 +24,12 @@ p {
 }
 
 h1 {
-    font-size: 3rem;
+    font-size: 3.2rem;
 }
 
 h2 {
     font-size: 2rem;
+    margin-bottom: 1rem;
 }
 
 ul>li {
@@ -37,7 +38,7 @@ ul>li {
 
 /* navbar */
 
-.navbar-toggler {
+.navbar-toggler, .navbar-toggler:focus {
     border: none;
 }
 
