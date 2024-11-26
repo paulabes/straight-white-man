@@ -77,7 +77,7 @@ A very simple single column 'mobile first' design using standard Bootstrap eleme
 ## Important considerations
 
 - **Language** 
-Avoid generalisations, stereotypes, or language that blames any particular group.
+<br>Avoid generalisations, stereotypes, or language that blames any particular group.
 
 - **Focus**
 Frame the website's purpose around personal growth, understanding, and building bridges across different perspectives.
