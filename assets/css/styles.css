@@ -49,10 +49,11 @@ ul>li {
 
 /* navbar */
 
-.navbar-toggler, 
-.navbar-toggler.active, {
-    border: none;
-}
+.navbar-toggler {
+    border: none !important;
+    outline: none !important;
+    box-shadow: none !important; 
+  } 
 
 /* buttons */
 
