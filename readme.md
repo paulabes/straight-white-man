@@ -104,7 +104,7 @@ By taking these steps, I can create a website that genuinely supports straight w
 
 This is the primary group the website aims to serve. However, within this group, there could be a wide range of ages, backgrounds, and perspectives.
 
-- **Age**  
+- **Age**
 <br>While it could potentially appeal to men of all ages, it's likely that the largest demographic would be men in their 30s to 50s. This is a period when many men are navigating careers, families, and societal expectations, and may be feeling the pressures of a changing world most acutely.
 
 - **Location**  
