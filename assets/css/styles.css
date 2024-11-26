@@ -101,8 +101,8 @@ section {
         padding: 30px
     } 
 
-    h1, h2, h3, p, #hero-buttons {
-        text-align: left;
+    .center {
+        text-align: center;
     }
 }
 
