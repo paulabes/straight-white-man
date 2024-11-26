@@ -12,7 +12,7 @@ paulabes <br>
 - [Website design](#website-design)
 - [Technology](#technology)
 - [Important considerations](#important-considerations)
-- [Strap lines](#strap-lines)
+- [Straplines](#straplines)
 - [Target audience](#target-audience)
 - [Optional pages](#optional-pages) 
 
