@@ -52,8 +52,6 @@ a:link {
     text-decoration: none;
 }
 
-
-
 /* navbar */
 
 .navbar-toggler {
@@ -93,7 +91,7 @@ section {
 
 #about,
 #tools,
-#action {
+#action, #forum, #contact, #alone {
     background-color: #2b3035;
 }
 
@@ -106,7 +104,9 @@ section {
 
 #resources,
 #advice,
-#help {
+#help,
+#info-one,
+#info-two {
     padding: 10px;
 }
 
@@ -118,14 +118,12 @@ section {
     background-color: #2b3035;
 }
 
-#contact {
-}
-
 /* media queries */
 
 @media (min-width: 768px) {
 
-    #resources {
+    #resources,
+    #info-one {
         border-right: 2px solid #2e3236;
     }
 
@@ -135,7 +133,9 @@ section {
 
     #resources,
     #advice,
-    #help {
+    #help,
+    #info-one,
+    #info-two {
         padding: 30px;
     }
 
