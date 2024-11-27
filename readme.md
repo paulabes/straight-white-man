@@ -14,7 +14,8 @@ paulabes <br>
 - [Important considerations](#important-considerations)
 - [Straplines](#straplines)
 - [Target audience](#target-audience)
-- [Optional pages](#optional-pages) 
+- [Optional pages](#optional-pages)
+- [To do list](#to-do-list)
 
 
 ## Introduction
