@@ -150,9 +150,11 @@ This is the primary group the website aims to serve. However, within this group,
 
 ## Validation
 
+Valid HTML5
+
 [![Valid CSS!](http://jigsaw.w3.org/css-validator/images/vcss)](http://jigsaw.w3.org/css-validator/check/referer)
 
-Valid CSS!
+Valid CSS3
 
 [![Valid CSS!](http://jigsaw.w3.org/css-validator/images/vcss-blue)](http://jigsaw.w3.org/css-validator/check/referer)
 
