@@ -47,7 +47,8 @@ ul>li {
     font-size: 1rem;
 }
 
-a:active, a:link {
+a:active,
+a:link {
     text-decoration: none;
 }
 
@@ -81,10 +82,16 @@ a:hover a:visited {
     letter-spacing: 0.1rem;
 }
 
+/* title bar */
+
+.title-bar-content {
+    padding-top: 50px;
+}
+
 /* sections */
 
 section {
-    padding: 1% 0;
+    padding: 30px 0;
 }
 
 #about,
@@ -103,7 +110,7 @@ section {
 #resources,
 #advice,
 #help {
-    padding: 10px 0 10px 0;
+    padding: 10px;
 }
 
 .accordion-item {
@@ -112,6 +119,12 @@ section {
 
 .title-bar {
     background-color: #2b3035;
+}
+
+.form {
+    background-color: #2e3236;
+    padding: 30px;
+    margin-bottom: 30px;
 }
 
 /* media queries */
