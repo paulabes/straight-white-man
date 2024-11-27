@@ -137,3 +137,13 @@ This is the primary group the website aims to serve. However, within this group,
 - Recommended reading
 - Upcoming events
 - Take action
+
+## To do list
+
+- Select better background images
+- Add Privacy and Terms pages
+- Fine tune text content
+- Plug chat into the Vanilla forum + sync signup
+- Modal for sign up 
+
+
