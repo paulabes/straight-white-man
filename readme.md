@@ -16,6 +16,7 @@ paulabes <br>
 - [Target audience](#target-audience)
 - [Optional pages](#optional-pages)
 - [To do list](#to-do-list)
+- [Validation](#validation)
 
 
 ## Introduction
@@ -146,5 +147,13 @@ This is the primary group the website aims to serve. However, within this group,
 - Fine tune text content
 - Plug chat into the Vanilla forum + sync signup
 - Modal for sign up 
+
+## Validation
+
+[![Valid CSS!](http://jigsaw.w3.org/css-validator/images/vcss)](http://jigsaw.w3.org/css-validator/check/referer)
+
+Valid CSS!
+
+[![Valid CSS!](http://jigsaw.w3.org/css-validator/images/vcss-blue)](http://jigsaw.w3.org/css-validator/check/referer)
 
 
