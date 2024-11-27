@@ -86,6 +86,10 @@ a:link {
 
 /* title bar */
 
+.title-bar {
+    background-color: #000000;
+}
+
 .title-bar-content {
     padding-top: 50px;
 }
